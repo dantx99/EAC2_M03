@@ -1,0 +1,33 @@
+# Django
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+db.sqlite3
+
+# Entornos virtuales
+django_env/
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales
+.env
+.local_settings.py
+
+# Archivos de medios (uploads)
+media/
